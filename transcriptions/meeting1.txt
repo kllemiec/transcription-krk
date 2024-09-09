@@ -1,0 +1,31 @@
+**00:00** Anna Slowik-Maslo: Good morning everyone. Today we'll be discussing the basics of Large Language Models, or LLMs. I'm Anna Slowik-Maslo, and I'll be leading this session.
+**00:15** Mark Johnson: Hi Anna, thanks for organizing this. I'm really looking forward to learning more about LLMs.
+**00:20** Sarah Lee: Same here. I've heard a lot about them but never really understood how they work.
+**00:25** Alex Rodriguez: Me too. I'm particularly interested in their practical applications.
+**00:30** Anna Slowik-Maslo: Great, I'm glad you're all eager to learn. Let's start with the basics. A Large Language Model, or LLM, is a type of artificial intelligence that's trained on vast amounts of text data to understand and generate human-like text.
+**02:00** Sarah Lee: That sounds impressive. But how exactly does it work?
+**02:05** Anna Slowik-Maslo: Good question, Sarah. LLMs work on the principle of predicting the next word in a sequence based on the context of the previous words. They use a complex neural network architecture, typically based on transformers, which allows them to understand context over long sequences of text.
+**04:30** Mark Johnson: So, it's like they're constantly playing a very advanced word prediction game?
+**04:35** Anna Slowik-Maslo: That's a great analogy, Mark! During training, the model learns patterns and relationships in language by repeatedly trying to predict the next word in billions of sentences.
+**06:00** Alex Rodriguez: And how big are these models typically?
+**06:05** Anna Slowik-Maslo: They can be enormous, Alex. Some of the largest models have hundreds of billions of parameters. These parameters are essentially the 'knowledge' the model has learned during training.
+**08:00** Sarah Lee: That's fascinating. Can you give us an example of how you've used an LLM in your work, Anna?
+**08:10** Anna Slowik-Maslo: Certainly, Sarah. One project I worked on involved using an LLM for sentiment analysis. We fine-tuned a pre-trained model to classify whether a given sentence expressed positive or negative sentiment.
+**10:00** Mark Johnson: That sounds interesting. How did you go about doing that?
+**10:05** Anna Slowik-Maslo: We started with a base LLM and then fine-tuned it on a large dataset of labeled sentences. Each sentence was tagged as either positive or negative. The model learned to recognize patterns associated with each sentiment.
+**12:30** Alex Rodriguez: And how accurate was it?
+**12:35** Anna Slowik-Maslo: It was quite accurate, Alex. We achieved about 92% accuracy on our test set. But what was really interesting was how the model could pick up on subtle nuances in language that even human raters sometimes missed.
+**14:30** Sarah Lee: Can you give us an example?
+**14:35** Anna Slowik-Maslo: Sure, Sarah. For instance, the model correctly identified sarcasm in sentences like "Oh great, another meeting" as negative, even though it contains the positive word "great".
+**16:00** Mark Johnson: That's impressive. Are there any limitations to using LLMs for tasks like this?
+**16:10** Anna Slowik-Maslo: Absolutely, Mark. While LLMs are powerful, they have limitations. They can sometimes produce biased results based on biases in their training data. They also require significant computational resources, and their decisions aren't always easily interpretable.
+**18:30** Alex Rodriguez: How do you address these limitations?
+**18:35** Anna Slowik-Maslo: Great question, Alex. We use techniques like careful data curation to reduce bias, and we're exploring methods to make models more efficient and interpretable. It's an active area of research.
+**20:30** Sarah Lee: This is all really fascinating. Where do you see the future of LLMs heading?
+**20:40** Anna Slowik-Maslo: I believe we'll see LLMs becoming more specialized and efficient, Sarah. We're already seeing models fine-tuned for specific tasks or domains. I also think we'll see more integration of LLMs with other AI technologies, like computer vision.
+**23:00** Mark Johnson: Thank you, Anna. This has been incredibly informative.
+**23:05** Alex Rodriguez: Agreed. I feel like I have a much better understanding of LLMs now.
+**23:10** Sarah Lee: Same here. It's amazing to think about the potential applications.
+**23:15** Anna Slowik-Maslo: I'm glad you all found it helpful. Remember, this is just scratching the surface. LLMs are a rapidly evolving field with new developments happening all the time. Keep learning and exploring!
+**23:30** Anna Slowik-Maslo: Any final questions before we wrap up?
+**29:45** Anna Slowik-Maslo: Alright, if there are no more questions, let's conclude our session. Thank you all for your attention and great questions. Feel free to reach out if you have any further queries.
